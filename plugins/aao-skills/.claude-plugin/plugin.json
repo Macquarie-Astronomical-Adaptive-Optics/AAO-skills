@@ -1,0 +1,8 @@
+{
+  "name": "aao-skills",
+  "description": "General AAO reusable skills for grant writing, paper handling, optics, and telescope creation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "AAO"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "aao-skills-marketplace",
+  "description": "AAO reusable skills for grants, research papers, optics, and telescope design.",
+  "owner": {
+    "name": "AAO"
+  },
+  "plugins": [
+    {
+      "name": "aao-skills",
+      "source": "./plugins/aao-skills",
+      "description": "General AAO skills for AARC grants, papers, optical design, and telescope creation.",
+      "version": "0.1.0",
+      "tags": ["grants", "research", "papers", "optics", "telescope"]
+    }
+  ]
+}
