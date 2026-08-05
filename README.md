@@ -2,6 +2,8 @@
 
 ## Install First
 
+New to Codex at AAO? Follow the [AAO Codex onboarding guide](install/aao-codex-onboarding.md) for the complete setup, including Git, GitHub and GitLab access, Office integration, OneDrive indexing, the weekly skills updater, and a first automation project.
+
 In Claude Code, run these commands one at a time.
 
 ```text
