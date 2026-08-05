@@ -181,7 +181,7 @@ skills. Each run must:
    untracked, or conflicted files.
 3. If the checkout is not clean, is not on main, or has diverged from
    origin/main, stop without changing anything and report the problem.
-4. Fetch origin and update main by fast-forward only. Never reset, clean,
+4. Run `git pull --ff-only origin main` to update main. Never reset, clean,
    rebase, force, delete, or discard local work.
 5. Run the repository's install-agent-skills script for this operating system.
 6. Verify the installed AAO skill names against the skill folders in the
