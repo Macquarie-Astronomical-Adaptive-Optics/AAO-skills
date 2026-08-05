@@ -38,7 +38,7 @@ For a Codex-only installation, run:
 ./install/install-codex.sh
 ```
 
-Reusable AAO skills for grant and opportunity analysis, research-paper handling, optics, telescope design, and concept verification.
+Reusable AAO skills for grant and opportunity analysis, research-paper handling, optics, telescope design, mesh and CAD reconstruction, and concept verification.
 
 This repository is for broadly shareable material that can circulate inside AAO and with approved collaborators. It must not contain restricted examples, reviewer notes, partner-private information, Defence priorities, internal strategy, clearance assumptions, controlled data, or commercially sensitive project details.
 
@@ -71,6 +71,7 @@ AAO-skills/
 | `telescope-creation` | General telescope design and proposal-development support. |
 | `space-telescope-concept` | Space-telescope concept studies with optical, mission, thermal, launch, radiation, and verification assumptions. |
 | `telescope-geometry-honesty` | Geometry, CAD-like export, and render checks for physically credible telescope concept models. |
+| `stl-surface-reconstruction` | STL component cleanup, measured mesh reduction, smoothing checks, and CAD-style analytic or spline surface reconstruction. |
 | `thermal-optical-mechanical-closure` | STOP-style screening that links thermal cases, structural deformation, and optical performance. |
 | `space-environment-screening` | Orbit, thermal, radiation, contamination, survival, and operations screening for space instruments. |
 | `requirements-budget-verification` | Traceable requirements, budgets, verification matrices, test plans, and release gates. |

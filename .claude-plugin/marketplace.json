@@ -1,6 +1,6 @@
 {
   "name": "aao-skills-marketplace",
-  "description": "AAO reusable skills for space-funding portals, grants, opportunity analysis, research papers, optics, telescope design, and concept verification.",
+  "description": "AAO reusable skills for space-funding portals, grants, opportunity analysis, research papers, optics, telescope design, mesh and CAD reconstruction, and concept verification.",
   "owner": {
     "name": "AAO"
   },
@@ -8,9 +8,9 @@
     {
       "name": "aao-skills",
       "source": "./plugins/aao-skills",
-      "description": "General AAO skills for Horizon Europe, NASA, ESA and Australian space funding, grants, papers, optical design, telescope creation, and concept verification.",
-      "version": "0.3.0",
-      "tags": ["grants", "space-funding", "horizon-europe", "nasa", "esa", "australia", "research", "papers", "optics", "telescope", "verification"]
+      "description": "General AAO skills for Horizon Europe, NASA, ESA and Australian space funding, grants, papers, optical design, telescope creation, mesh and CAD reconstruction, and concept verification.",
+      "version": "0.4.0",
+      "tags": ["grants", "space-funding", "horizon-europe", "nasa", "esa", "australia", "research", "papers", "optics", "telescope", "mesh", "stl", "cad", "verification"]
     }
   ]
 }

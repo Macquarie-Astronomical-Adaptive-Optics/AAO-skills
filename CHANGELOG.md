@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.0 - 2026-08-05
+
+- Added `stl-surface-reconstruction` for source-preserving STL component
+  inventory, reviewed fragment removal, measured direct decimation, smoothing
+  rejection, and CAD-style analytic or spline reconstruction routing.
+- Added reusable binary/ASCII STL diagnostics, Blender component rendering and
+  reduction scripts, synthetic tests, representation guidance, and evaluation
+  cases without including project geometry.
+
 ## 0.3.0 - 2026-08-03
 
 - Added a single-source installer for Claude Code and Codex: symlink-based on macOS/Linux and safe managed copies on Windows.

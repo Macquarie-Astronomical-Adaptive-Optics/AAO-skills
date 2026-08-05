@@ -1,7 +1,7 @@
 {
   "name": "aao-skills",
-  "description": "General AAO reusable skills for Horizon Europe, NASA, ESA and Australian space funding, grant writing, paper handling, optics, telescope creation, and concept verification.",
-  "version": "0.3.0",
+  "description": "General AAO reusable skills for Horizon Europe, NASA, ESA and Australian space funding, grant writing, paper handling, optics, telescope creation, mesh and CAD reconstruction, and concept verification.",
+  "version": "0.4.0",
   "author": {
     "name": "AAO"
   }
